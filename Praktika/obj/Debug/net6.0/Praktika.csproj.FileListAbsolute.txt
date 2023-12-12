@@ -1,0 +1,14 @@
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfoInputs.cache
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfo.cs
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.csproj.CoreCompileInputs.cache
+D:\proga\OOP Lb\Praktika\Praktika\bin\Debug\net6.0\Praktika.exe
+D:\proga\OOP Lb\Praktika\Praktika\bin\Debug\net6.0\Praktika.deps.json
+D:\proga\OOP Lb\Praktika\Praktika\bin\Debug\net6.0\Praktika.runtimeconfig.json
+D:\proga\OOP Lb\Praktika\Praktika\bin\Debug\net6.0\Praktika.dll
+D:\proga\OOP Lb\Praktika\Praktika\bin\Debug\net6.0\Praktika.pdb
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.dll
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\refint\Praktika.dll
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.pdb
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\Praktika.genruntimeconfig.cache
+D:\proga\OOP Lb\Praktika\Praktika\obj\Debug\net6.0\ref\Praktika.dll
